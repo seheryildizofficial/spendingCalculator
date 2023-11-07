@@ -4,6 +4,6 @@
 
 •HTML •CSS •JAVASCRİPT 
 
-<h1>Proje Gifi</h1>
+<h1>Project gif</h1>
 
 ![](pro.gif)# spendingCalculator
