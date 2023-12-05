@@ -1,6 +1,6 @@
 <h1>Spending Calculator</h1>
 
-<h2>Used Tech</h2>
+<h2> Tech</h2>
 
 •HTML •CSS •JAVASCRİPT 
 
